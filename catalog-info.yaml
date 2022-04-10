@@ -4,7 +4,7 @@ metadata:
   name: MRML
   description: The Model Railway Markup Language
   annotations:
-    backstage.io/techdocs-ref: dir:docs/
+    backstage.io/techdocs-ref: dir:.
     github.com/project-slug: 'modelrailwaysascode/mrml'
 spec:
   type: service
