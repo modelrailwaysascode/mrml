@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: MRML
+  description: The Model Railway Markup Language
+  annotations:
+    backstage.io/techdocs-ref: dir:docs/
+    github.com/project-slug: 'modelrailwaysascode/mrml'
+spec:
+  type: service
+  owner: matt@doics.co
+  lifecycle: production
